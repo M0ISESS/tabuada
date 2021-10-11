@@ -6,7 +6,7 @@ funcao inicio()
 inteiro numero,limite,resuntado,tabuada
 numero=0
 limite=10
-escreva ("qual tabuada vc quer?")
+escreva ("qual tabuada vc deseja?")
 leia(tabuada)
 faca
 {resuntado= tabuada*+ numero
@@ -24,7 +24,7 @@ numero++
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 195; 
+ * @POSICAO-CURSOR = 122; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
